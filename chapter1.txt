@@ -13,4 +13,3 @@ go
 Hari Hari aum
 Jaya Shri Ram
 
-This is my bad commit
